@@ -1,0 +1,47 @@
+.thin-green-border {
+    border-color: #CA232D;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 50%;
+}
+
+.dividing-line {
+    border-color: #CA232D;
+    border-width: 2px;
+    border-style: solid;
+}
+
+i {
+    color: #CA232D;
+}
+
+h1 {
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h2.wexp {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+
+h6 {
+    font-family: 'Open Sans', sans-serif;
+    color: #CA232D;
+}
+
+h6.locat {
+    text-align: right;
+    font-family: 'Open Sans', sans-serif;
+    color: #CA232D;
+}
+
+ul {
+    border-left: 70px solid #CA232D;
+    list-style-type: none;
+}
+
+p.accomp {
+    text-orientation:
+}
