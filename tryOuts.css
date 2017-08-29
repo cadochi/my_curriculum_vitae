@@ -32,16 +32,24 @@ h6 {
 }
 
 h6.locat {
-    text-align: right;
+    text-align: left;
     font-family: 'Open Sans', sans-serif;
     color: #CA232D;
 }
 
-ul {
-    border-left: 70px solid #CA232D;
+ul.cont {
+    border-left: 75px solid #CA232D;
+    list-style-type: none;
+}
+
+ul.namepl {
+    border-left: 75px solid #041F36;
     list-style-type: none;
 }
 
 p.accomp {
-    text-orientation:
+    text-align: left;
+    color: #CA232D
 }
+
+.col-md-6
