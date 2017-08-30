@@ -21,7 +21,7 @@ h1 {
 }
 
 h2.wexp {
-    text-align: center;
+    text-align: left;
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
 }
@@ -47,8 +47,8 @@ ul.namepl {
     list-style-type: none;
 }
 
-p.accomp {
-    text-align: left;
+.accomp {
+    text-align: center;
     color: #CA232D
 }
 
